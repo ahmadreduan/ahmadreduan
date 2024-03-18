@@ -35,7 +35,8 @@ Hi, I'm Reduan Ahmad, I am student of software engineering at Daffodil Internati
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmadreduan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ahmadreduan&theme=jolly&date_format=j%20M%5B%20Y%5D)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
