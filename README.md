@@ -43,4 +43,6 @@ Hi, I'm Reduan Ahmad, I am student of software engineering at Daffodil Internati
 <img src="https://github.com/VishwaGauravIn/ahmadreduan/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=ahmadreduan&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
