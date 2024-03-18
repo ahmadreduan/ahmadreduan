@@ -39,4 +39,8 @@ Hi, I'm Reduan Ahmad, I am student of software engineering at Daffodil Internati
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=ahmadreduan&theme=jolly&date_format=j%20M%5B%20Y%5D)
 ---
 
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/ahmadreduan/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
