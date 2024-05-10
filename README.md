@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: Connect with me on LinkedIn or explore my Android projects on GitHub.
 
-😄 Pronouns: He/Her
+😄 Pronouns: He
 
 ⚡ Fun fact: Outside of coding, I'm a coffee enthusiast and often experiment with brewing methods. My favorite coding sessions are fueled by a freshly brewed cup of Ethiopian Yirgacheffe coffee!
 
